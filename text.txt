@@ -12,3 +12,6 @@ and Remote repo cannot be updated!
 
 Now checking if the change is recordedd or not.
 what can i say, show?
+
+
+Now im adding new line from remote repo  to check local repo.
