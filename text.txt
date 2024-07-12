@@ -1,0 +1,14 @@
+I am Nayeem Chowdhury.
+I am currenty studying at BUBT for B.Sc in CSE.
+I am a software eng.
+Now i am adding new line.
+
+I have some friends in my class and they are very helpful.
+Today is Friday.
+We prayed our prayers at the Mosque.
+Now starting to watch 2nd lecture of git and github.
+now the git diff  isnt working.
+and Remote repo cannot be updated!
+
+Now checking if the change is recordedd or not.
+what can i say, show?
