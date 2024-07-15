@@ -10,7 +10,6 @@ Now starting to watch 2nd lecture of git and github.
 now the git diff  isnt working.
 and Remote repo cannot be updated!
 
-Now checking if the change is recordedd or not.
 what can i say, show?
 
 
